@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>John Willford</h1>
+        <nav>
+            <a href="#" class="active">Home</a>
+            <a href="contact.html">NEXT</a>
+        </nav>
+    </header>
+
+    <section class="Home">
+        <video autoplay loop muted plays-inline class="background-clip">
+            <source src="tumblr_o7mo5bQqKD1ujcnnno1_500.gif">
+        </video>
+
+        <h1>JOHN WILLFORD FUASO</h1>
+
+
+    </section>
+
+    <section class="About">
+
+        <h1>About</h1>
+
+        <p>My College Course: Bachelor of Science in Computer Science - Data Science</p>
+
+        <p>Year Level: 1st Year College</p>
+
+        <p>School: University of Perpetual Help System Dalta</p>
+
+        <p>your Current year level
+        My first year of college experience has been good so far because I'm still exploring, making friends, and learning what the way they're teaching and their teaching so far is okay, i want to pursue this course to become a programmer and help my family.</p>
+
+        <p>Specializaion
+        i want to specialize my course because to enhance my knowledge about programming and coding but not just about this two but also others.</p>
+
+        <p>PHILOSOPHY
+        My family is one of the people who inspires me since they provide me with the fortitude and encouragement I need to complete my education and realize my life's goals</p>
+
+        <!--dagdag ka nalang dito pre niyan na mga p s-->
+
+    </section>
+
+    <footer>
+        <div class="social-icons">
+          <a href="https://www.facebook.com/profile.php?id=100008349559025&mibextid=JRoKGi"><i class="fa-brands fa-facebook"></i></a>
+          <a href=""><i class="fa-brands fa-github"></i></a>
+          <a href=""><i class="fa-brands fa-instagram"></i></a>
+      </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
